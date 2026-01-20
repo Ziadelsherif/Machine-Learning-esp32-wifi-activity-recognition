@@ -192,7 +192,8 @@ Date: January 2026
 ## 📞 Contact
 
 - **GitHub:** [@Ziadelsherif](https://github.com/Ziadelsherif)
-- **Email:** your.email@example.com
+- **Email:** ziad.elsherif12@gmail.com
+  
 
 ---
 
